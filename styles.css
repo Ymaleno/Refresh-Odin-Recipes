@@ -14,3 +14,7 @@ a:hover
 {
     background-color: gainsboro;
 }
+
+*{
+    border: .5px solid red;
+}
